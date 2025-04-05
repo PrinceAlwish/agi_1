@@ -10,6 +10,9 @@ The tech world is growing and glowing with all new tech and talks, the phrase *�
 
 DeepMind has it figured out—a paper on AGI, and it’s just the start.  
 Feel free to nerd around this mind map that my good friend has nailed—*NotebookLM*.  
+
+![AGI Image](https://raw.githubusercontent.com/PrinceAlwish/agi_1/main/agi.png)
+
 Glean through it, perhaps it is just the start of it all?
 Link: https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/An_Approach_to_Technical_AGI_Safety_Apr_2025.pdf
 ## What is your view on the above?
